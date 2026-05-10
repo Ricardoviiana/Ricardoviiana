@@ -36,7 +36,7 @@ Atualmente trabalho com desenvolvimento web e estou aprofundando meus estudos em
 
 ## 🚀 Projeto principal
 
-### 📌 INK PRINT
+### 📌 Link in Bio 
 Plataforma de link-in-bio personalizada com backend em Node.js.
 
 > Em desenvolvimento 🔧
