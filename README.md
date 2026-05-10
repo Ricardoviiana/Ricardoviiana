@@ -1,33 +1,32 @@
 # 👋 Olá, eu sou o Ricardo
 
-💻 Desenvolvedor em formação | 🎓 Análise e Desenvolvimento de Sistemas 
-🚀 Focado em Full Stack e Inteligência Artificial  
+💻 Desenvolvedor em formação | 🎓 Análise e Desenvolvimento de Sistemas  
+🚀 Full Stack em evolução | Node.js • JavaScript • IA  
 📍 Brasil
 
 ---
 
 ## 🧠 Sobre mim
 
-Estou construindo minha carreira como desenvolvedor, focando em criar projetos reais, escaláveis e com impacto.  
-Atualmente trabalho com desenvolvimento web e estou aprofundando meus estudos em backend e IA.
+Estou construindo minha jornada como desenvolvedor, criando projetos reais e evoluindo minhas habilidades em desenvolvimento web e Inteligência Artificial.
 
 ---
 
-## ⚙️ Tecnologias que utilizo
+## ⚙️ Tech Stack
 
-### 💻 Front-end
+### Front-end
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### ⚙️ Back-end
+### Back-end
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 
-### 🗄️ Banco de Dados
+### Banco de Dados
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### 🛠️ Ferramentas
+### Ferramentas
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -36,18 +35,14 @@ Atualmente trabalho com desenvolvimento web e estou aprofundando meus estudos em
 
 ## 🚀 Projeto principal
 
-### 📌 Link in Bio 
-Plataforma de link-in-bio personalizada com backend em Node.js.
-
-> Em desenvolvimento 🔧
+### 📌 INK PRINT
+Plataforma de link-in-bio personalizada com foco em escalabilidade e backend próprio.
 
 ---
 
-## 📊 Estatísticas GitHub
+## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ricardoviiana&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ricardoviiana&layout=compact&theme=tokyonight)
 
 ---
 
@@ -59,9 +54,16 @@ Plataforma de link-in-bio personalizada com backend em Node.js.
 
 ---
 
-## ⚡ Frase
+## ⚡ Atualmente focado em
 
-> "Código não é só escrever, é construir soluções reais."## Hi there 👋
+- Desenvolvimento Web Full Stack  
+- APIs com Node.js  
+- Evolução do projeto INK PRINT  
+- Inteligência Artificial aplicada  
+
+---
+
+> “Construindo soluções reais com código.”
 
 <!--
 **Ricardoviiana/Ricardoviiana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
