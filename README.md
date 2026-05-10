@@ -35,7 +35,7 @@ Estou construindo minha jornada como desenvolvedor, criando projetos reais e evo
 
 ## 🚀 Projeto principal
 
-### 📌 INK PRINT
+### 📌 ZYNK
 Plataforma de link-in-bio personalizada com foco em escalabilidade e backend próprio.
 
 ---
